@@ -5,7 +5,6 @@ package-lock.json
 prev-code
 telegram
 whats-app
-*.png
 local_start.sh
 !QardanHasana-Request-v2.pdf
 !sign.png
