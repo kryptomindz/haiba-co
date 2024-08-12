@@ -1,0 +1,11 @@
+backup
+node_modules
+package-lock.json
+*.pdf
+prev-code
+telegram
+whats-app
+*.png
+local_start.sh
+!QardanHasana-Request-v2.pdf
+!sign.png
